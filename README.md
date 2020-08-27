@@ -1,8 +1,9 @@
-# Davi Fonseca
+# Helllo ✌, i'm Davi
+### A web developer from Brazil
 
-[![linkedin](https://img.shields.io/badge/-Davi_Fonseca-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/davibrandao18)            [![gmail](https://img.shields.io/badge/-contact_me-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:davi.brandao.fonseca@gmail.com)
+> "Learning is continuous and the next level will never be the last."!
 
-Computer science student
+🌱 I’m currently learning Node.js and React <br>
+💬 Ask me about Programming related stuff, Games, TV Series, Movies and Books.
 
-> "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.<br>They will be the mans who has not learned how to learn."
-<br>― Alvin Toffler, Future Shock (1970)
+[![linkedin](https://img.shields.io/badge/-Davi_Fonseca-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/davibrandao18) [![gmail](https://img.shields.io/badge/-contact_me-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:davi.brandao.fonseca@gmail.com)
